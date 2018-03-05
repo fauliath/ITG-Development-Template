@@ -1,0 +1,10 @@
+S:\Development\GitHub Repositories\ITG-Development-Template\Template\bin\Debug\Template.exe.config
+S:\Development\GitHub Repositories\ITG-Development-Template\Template\bin\Debug\Template.exe
+S:\Development\GitHub Repositories\ITG-Development-Template\Template\bin\Debug\Template.pdb
+S:\Development\GitHub Repositories\ITG-Development-Template\Template\obj\Debug\Template.Properties.Resources.resources
+S:\Development\GitHub Repositories\ITG-Development-Template\Template\obj\Debug\Template.csproj.GenerateResource.Cache
+S:\Development\GitHub Repositories\ITG-Development-Template\Template\obj\Debug\Template.csproj.CoreCompileInputs.cache
+S:\Development\GitHub Repositories\ITG-Development-Template\Template\obj\Debug\Template.exe
+S:\Development\GitHub Repositories\ITG-Development-Template\Template\obj\Debug\Template.pdb
+S:\Development\GitHub Repositories\ITG-Development-Template\Template\obj\Debug\Template.MainWindow.resources
+S:\Development\GitHub Repositories\ITG-Development-Template\Template\obj\Debug\Template.csprojResolveAssemblyReference.cache
